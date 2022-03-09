@@ -1,5 +1,5 @@
-# 2D U-Net for Broad Cell Image Segmentation (BBBC038)
-A 2D U-Net to segment nuclei from images of cells from the [Broad Biobank Images](https://bbbc.broadinstitute.org/BBBC038).
+# 2D U-Net for Broad Cell Image Segmentation
+A 2D U-Net to segment nuclei from images of cells from the [Broad Bioimage Benchmark Collection](https://bbbc.broadinstitute.org/BBBC038).
 
 ![broad](/model_images_predictions.png)
 
